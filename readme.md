@@ -16,7 +16,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-```python3 main.py --help```
+```
+python3 main.py --help
+```
 
 ### Things to do
 - Add support for custom sites
